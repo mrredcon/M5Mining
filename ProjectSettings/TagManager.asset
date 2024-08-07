@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Magical
+  - Held
+  - SelectedMineralText
+  - Mineable
+  - GoldText
+  - InventoryManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Terrain
+  - Interactable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2121910789
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Terrain
+    uniqueID: 2257549751
+    locked: 0
+  - name: Terrain_Overlay
+    uniqueID: 1785506561
+    locked: 0
+  - name: Creatures
+    uniqueID: 3411203305
+    locked: 0
+  - name: Vehicle_Chassis
+    uniqueID: 4276703761
+    locked: 0
+  - name: Vehicle_Cockpit
+    uniqueID: 4261987925
+    locked: 0
+  - name: Vehicle_Weapons
+    uniqueID: 3696059353
+    locked: 0
+  - name: UI
+    uniqueID: 1457782749
+    locked: 0
